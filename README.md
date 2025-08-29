@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m a Data Processing Specialist with 2 years of experience, passionate about leveraging Python to solve complex data problems. Currently, I’m working on projects to enhance my skills in Data Engineering and Data Science, with a focus on automation and analytics.<br><br>🔍 I’m always eager to collaborate on innovative data-driven solutions that involve building robust pipelines, data analysis, and automation.<br><br>💡 I’m constantly learning advanced data engineering techniques, machine learning, and new technologies to further elevate my expertise in data science and analytics.<br><br>Let’s build something amazing together!
+👋 Hi! I’m a Data Operations Analyst with 3 years of experience, passionate about leveraging Python to solve complex data problems. Currently, I’m working on projects to enhance my skills in Data Engineering and Data Science, with a focus on automation and analytics.<br><br>🔍 I’m always eager to collaborate on innovative data-driven solutions that involve building robust pipelines, data analysis, and automation.<br><br>💡 I’m constantly learning advanced data engineering techniques, machine learning, and new technologies to further elevate my expertise in data science and analytics.<br><br>Let’s build something amazing together!
 
 
 ## 🌐 Socials:
